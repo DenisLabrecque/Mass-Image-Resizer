@@ -1,0 +1,1 @@
+# Mass Image Resizer Utility
